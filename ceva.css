@@ -40,3 +40,12 @@ nav ul{
 nav a:link, a:hover, a:visited, a:active{
     text-decoration: none;
 }
+.box{
+    padding: 100px;
+    border: 100px;
+    align-items: flex-end;
+    display: flex;
+    margin: 100px;
+    width: 100px;
+    background-color: red;
+}
