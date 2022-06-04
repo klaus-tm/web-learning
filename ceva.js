@@ -23,7 +23,7 @@ function addtask(){
         mesaj.style.visibility = "hidden";
         newTask.value = "";
     }
-    else display("Baga un task man!");
+    else display("Baga un task man nu fi taran!");
 }
 
 function handletask(event){
